@@ -2,7 +2,7 @@
 
 	This script file is a part of Garry's Mod addon "C.A.S.S.I.E from SCP: Secret Laboratory" and is disturbed under MIT license. 
 	
-	Copyright (c) 2023-2024 Ivan Malakhov 
+	Copyright (c) 2023-2024 _wania
 	Author: Ivan Malakhov <malahoff21@gmail.com>
 	
 	For the full copyright and license information, please view the LICENSE file that was distributed with this source code.
