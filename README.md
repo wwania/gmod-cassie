@@ -47,8 +47,3 @@ End of emergency
 ---
 
 ### [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2948012910&searchtext=c.a.s.s.i.e)
-
-
----
-
-Original [addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2872853190) I inspired from. The author gave me a consent to use his code, modify it and drop my work onto Workshop.
