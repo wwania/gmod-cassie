@@ -51,6 +51,4 @@ End of emergency
 
 ---
 
-All sound files are copyrighted by [Northwood Studios](https://store.steampowered.com/developer/NWStudios). In the case of a complaint from the copyright holder this addon will be removed.
-
 Original [addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2872853190) I inspired from. The author gave me a consent to use his code, modify it and drop my work onto Workshop.
